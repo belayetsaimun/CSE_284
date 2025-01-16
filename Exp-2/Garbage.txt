@@ -1,0 +1,5 @@
+ram allocates memory when a value is assigned
+
+constructor  by default assign value and don't have garbage 
+
+Destructor is used to free memory 

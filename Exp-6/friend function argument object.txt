@@ -1,0 +1,3 @@
+friend function argument object
+can access all things of the base class
+friend function can't be inherited
